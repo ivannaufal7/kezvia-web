@@ -3,7 +3,7 @@ import React from 'react';
 const Collections = () => {
   return <section id='collections' className='min-h-[600px] lg:min-h-[500px]'>
     <div className='container mx-auto'>
-      <div className='flex flex-col gap-y-8 lg:flex-row lg:gap-x-16 mt-24'>
+      <div className='flex flex-col gap-y-8 lg:flex-row lg:gap-x-16 mt-8 lg:mt-24'>
         <div
           className='flex flex-col gap-y-2 justify-center lg:mb-24'
           data-aos='fade-right'
