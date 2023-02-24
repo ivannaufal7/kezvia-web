@@ -127,7 +127,7 @@ const Videos = () => {
                   </div>
                   <div className='flex flex-col gap-y-4'>
                     <span className='bg-grey text-white p-2 w-[63px] lg:w-[63px] h-[35px] flex items-center justify-center rounded-2xl'>New</span>
-                    <p className='truncate w-[200px] lg:w-[304px] text-xl text-white'>{title}</p>
+                    <p className='truncate w-[200px] lg:w-[304px] md:w-[540px] text-xl text-white'>{title}</p>
                   </div>
 
                 </div>
