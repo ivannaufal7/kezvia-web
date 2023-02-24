@@ -118,7 +118,7 @@ const Videos = () => {
             return (
               <>
                 <div className='flex flex-row gap-x-8' key={videoId}>
-                  <div className='bg-thumb1 w-[169px] h-[132px] bg-no-repeat bg-cover flex items-center justify-center rounded-lg'
+                  <div className='bg-thumb1 w-[140px] lg:min-w-[169px] h-[132px] bg-no-repeat bg-cover flex items-center justify-center rounded-lg'
                   style={{ backgroundImage: `url(${bgImg})` }}
                   >
                     <div onClick={() => setIsOpen(videoId)} className='text-orange text-2xl lg:text-[32px] hover:scale-150 transition cursor-pointer'>
@@ -126,8 +126,8 @@ const Videos = () => {
                     </div>
                   </div>
                   <div className='flex flex-col gap-y-4'>
-                    <span className='bg-grey text-white p-2 w-[63px] h-[35px] flex items-center justify-center rounded-2xl'>New</span>
-                    <p className='truncate w-[304px] text-xl text-white'>{title}</p>
+                    <span className='bg-grey text-white p-2 w-[63px] lg:w-[63px] h-[35px] flex items-center justify-center rounded-2xl'>New</span>
+                    <p className='truncate w-[200px] lg:w-[304px] text-xl text-white'>{title}</p>
                   </div>
 
                 </div>
