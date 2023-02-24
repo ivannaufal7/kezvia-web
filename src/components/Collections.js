@@ -20,11 +20,11 @@ const Collections = () => {
             data-aos-delay='500'
           >
             <div className='flex flex-col lg:flex-row lg:items-center lg:justify-center'>
-              <p className='text-2xl lg:text-3xl text-white mt-12 ml-8 lg:mt-14 w-[400px]'>Shopee: My Collection & Picks</p>
+              <p className='text-2xl lg:text-3xl text-white mt-8 ml-8 lg:mt-14 w-[250px] lg:w-[400px]'>Shopee: My Collection & Picks</p>
               <a href='https://mycollection.shop/kezvia' 
               target='_blank' 
               rel='noreferrer'
-              className='bg-orange-100 text-orange mt-4 ml-8 lg:mt-14 lg:mr-8 w-[146px] h-[60px]
+              className='bg-orange-100 text-orange mt-4 ml-8 lg:mt-14 lg:mr-8 lg:w-[146px] lg:h-[60px] w-[146px] h-[50px]
             hover:bg-orange hover:text-white transition rounded-md shadow-primary text-lg flex items-center justify-center'>View</a>
             </div>
           </div>
@@ -33,12 +33,12 @@ const Collections = () => {
             data-aos='fade-up'
             data-aos-delay='600'
           >
-            <div className='flex flex-col lg:flex-row lg:items-center lg:justify-center'>
-              <p className='text-2xl lg:text-3xl text-white mt-12 ml-8 lg:mt-14 w-[400px]'>Shop: Rom&nd Juicy Lasting Tint</p>
+            <div className='flex flex-col justify-center lg:flex-row lg:items-center lg:justify-center'>
+              <p className='text-2xl lg:text-3xl text-white mt-8 ml-8 lg:mt-14 w-[250px] lg:w-[400px]'>Shop: Rom&nd Juicy Lasting Tint</p>
               <a href='https://shopee.sg/product/214105150/6213712656?utm_campaign=-&utm_content=----&utm_medium=affiliates&utm_source=an_14327320000&utm_term=8tv36jyshhks' 
               target='_blank'
               rel='noreferrer'
-              className='bg-orange-100 text-orange mt-4 ml-8 lg:mt-14 lg:mr-8 w-[146px] h-[60px]
+              className='bg-orange-100 text-orange mt-4 ml-8 lg:mt-14 lg:mr-8 lg:w-[146px] lg:h-[60px] w-[146px] h-[50px]
             hover:bg-orange hover:text-white transition rounded-md shadow-primary text-lg flex items-center justify-center'>View</a>
             </div>
           </div>
