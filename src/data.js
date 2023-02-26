@@ -15,8 +15,8 @@ export const videos = [
     bgImg: 'https://i.ytimg.com/vi/EiPAFLwXgms/maxresdefault.jpg'
   },
   {
-    videoId: 'EjHzB7QSKyY',
-    title: 'Paris with Friends 🇫🇷 | Touring, Disneyland, Le Train Bleu, Shopping, Eating VLOG 🤍',
-    bgImg: 'https://i.ytimg.com/vi/EjHzB7QSKyY/maxresdefault.jpg'
+    videoId: '9d4l9YHxVKY',
+    title: 'What do girls do during a staycay? 🐻 || Hilton Singapore Staycay Vlog',
+    bgImg: 'https://i.ytimg.com/vi/9d4l9YHxVKY/maxresdefault.jpg'
   },
 ];
