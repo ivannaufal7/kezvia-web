@@ -51,7 +51,7 @@ const Videos = () => {
         >Recently Upload</h2>
       </div>
       <div className='flex flex-col gap-y-4 lg:flex-row-reverse gap-x-12'>
-        {videos.filter(item => item.videoId === "um0ux__TzLI").map(item => {
+        {videos.filter(item => item.videoId === "9d4l9YHxVKY").map(item => {
           //destructive item
           const { videoId, bgImg } = item
           return (
@@ -112,7 +112,7 @@ const Videos = () => {
           data-aos='fade-right'
           data-aos-delay='600'
         >
-          {videos.filter(item => item.videoId !== "um0ux__TzLI").map(item => {
+          {videos.filter(item => item.videoId !== "9d4l9YHxVKY").map(item => {
             //destructive item
             const { videoId, title, bgImg } = item
             return (
