@@ -1,5 +1,10 @@
 export const videos = [
   {
+    videoId: '9d4l9YHxVKY',
+    title: 'What do girls do during a staycay? 🐻 || Hilton Singapore Staycay Vlog',
+    bgImg: 'https://i.ytimg.com/vi/9d4l9YHxVKY/maxresdefault.jpg'
+  },
+  {
     videoId: 'um0ux__TzLI',
     title: 'What I eat in 2 days (asian food) | Make dumplings with me, Hai Di Lao hotpot',
     bgImg: 'https://i.ytimg.com/vi/um0ux__TzLI/maxresdefault.jpg'
@@ -13,10 +18,5 @@ export const videos = [
     videoId: 'EiPAFLwXgms',
     title: 'Spending Christmas in Munich, Germany VLOG 🎄',
     bgImg: 'https://i.ytimg.com/vi/EiPAFLwXgms/maxresdefault.jpg'
-  },
-  {
-    videoId: '9d4l9YHxVKY',
-    title: 'What do girls do during a staycay? 🐻 || Hilton Singapore Staycay Vlog',
-    bgImg: 'https://i.ytimg.com/vi/9d4l9YHxVKY/maxresdefault.jpg'
   },
 ];
